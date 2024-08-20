@@ -1,0 +1,8 @@
+Name: Eliad Hofman 209014018
+
+Libraries: Pygame, Matplotlib, NumPy
+
+pip install pygame matplotlib numpy
+
+
+Please run main.py
